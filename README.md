@@ -21,7 +21,7 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-## link 
+## Link 
  https://lindseybowen.github.io/Code_Refactor/
  
  
